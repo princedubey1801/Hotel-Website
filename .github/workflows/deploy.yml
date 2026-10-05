@@ -1,0 +1,25 @@
+name: Hotel Website CI/CD
+
+on:
+  push:
+    branches:
+      - master
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Build Docker Image
+        run: docker build -t hotel-web .
+
+      - name: Test Docker Image
+        run: docker run -d -p 8080:80 --name hotel-test hotel-web
+
+      - name: Check Container
+        run: docker ps
+
+      - name: Stop Test Container
+        run: docker stop hotel-test
