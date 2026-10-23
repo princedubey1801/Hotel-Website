@@ -32,7 +32,7 @@ include('db.php');
 			<div class="social-bnr-agileits">
 				<ul class="social-icons3">
 								<li><a href="https://www.facebook.com/" class="fa fa-facebook icon-border facebook"> </a></li>
-								<li><a href="https://Instagram.com/" class="fa fa-twitter icon-border twitter"> </a></li>
+								<li><a href="https://Instagram.com/" class="fa fa-twitter icon-border Instagram"> </a></li>
 								<li><a href="https://plus.google.com/u/0/" class="fa fa-google-plus icon-border googleplus"> </a></li> 
 							</ul>
 			</div>
@@ -74,7 +74,7 @@ include('db.php');
 						<ul class="nav navbar-nav menu__list">
 							<li class="menu__item menu__item--current"><a href="" class="menu__link">Home</a></li>
 							<li class="menu__item"><a href="#about" class="menu__link scroll">About</a></li>
-							<li class="menu__item"><a href="#team" class="menu__link scroll">Team</a></li>
+							<li class="menu__item"><a href="#team" class="menu__link scroll">Teams</a></li>
 							<li class="menu__item"><a href="#gallery" class="menu__link scroll">Gallery</a></li>
 							<li class="menu__item"><a href="#rooms" class="menu__link scroll">Rooms</a></li>
 							<li class="menu__item"><a href="#contact" class="menu__link scroll">Contact Us</a></li>
