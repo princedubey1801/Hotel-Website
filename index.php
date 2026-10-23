@@ -4,7 +4,7 @@ include('db.php');
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Prince Group of Hotel</title>
+<title>Nitish Group of Hotel</title>
 <!-- for-mobile-apps -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -32,7 +32,7 @@ include('db.php');
 			<div class="social-bnr-agileits">
 				<ul class="social-icons3">
 								<li><a href="https://www.facebook.com/" class="fa fa-facebook icon-border facebook"> </a></li>
-								<li><a href="https://twitter.com/" class="fa fa-twitter icon-border twitter"> </a></li>
+								<li><a href="https://Instagram.com/" class="fa fa-twitter icon-border twitter"> </a></li>
 								<li><a href="https://plus.google.com/u/0/" class="fa fa-google-plus icon-border googleplus"> </a></li> 
 							</ul>
 			</div>
