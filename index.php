@@ -38,7 +38,7 @@ include('db.php');
 			</div>
 			<div class="contact-bnr-w3-agile">
 				<ul>
-					<li><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:info@example.com">INFO@SUNRISE.COM</a></li>
+					<li><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:info@example.com">nitishdwivedi420@gmail.com</a></li>
 					<li><i class="fa fa-phone" aria-hidden="true"></i>+91 7480832856</li>	
 					<li class="s-bar">
 						<div class="search">
@@ -99,7 +99,7 @@ include('db.php');
 								<div class="agileits-banner-info">
 								<h4>SUN RISE</h4>
 									<h3>We know what you love</h3>
-										<p>Welcome to our hotels</p>
+										<p>Welcome Nitish Groups of Hotels</p>
 									<div class="agileits_w3layouts_more menu__item">
 				<a href="#" class="menu__link" data-toggle="modal" data-target="#myModal">Learn More</a>
 			</div>
