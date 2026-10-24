@@ -4,7 +4,7 @@ include('db.php');
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Nitish Group of Hotel</title>
+<title>Princes Group of Hotel</title>
 <!-- for-mobile-apps -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -39,7 +39,7 @@ include('db.php');
 			<div class="contact-bnr-w3-agile">
 				<ul>
 					<li><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:info@example.com">nitishdwivedi420@gmail.com</a></li>
-					<li><i class="fa fa-phone" aria-hidden="true"></i>+91 7480832856</li>	
+					<li><i class="fa fa-phone" aria-hidden="true"></i>+91 9763742994</li>	
 					<li class="s-bar">
 						<div class="search">
 							<input class="search_box" type="checkbox" id="search_box">
@@ -98,7 +98,7 @@ include('db.php');
 							<div class="container">
 								<div class="agileits-banner-info">
 								<h4>SUN RISE</h4>
-									<h3>We know what you love about my hotel</h3>
+									<h3>We know what you love about my hotels</h3>
 										<p>Welcome Nitish Groups of Hotels</p>
 									<div class="agileits_w3layouts_more menu__item">
 				<a href="#" class="menu__link" data-toggle="modal" data-target="#myModal">Learn More</a>
@@ -112,7 +112,7 @@ include('db.php');
 							<div class="container">
 								<div class="agileits-banner-info">
 								<h4>SUN RISE</h4>
-									<h3>Stay with friends & families</h3>
+									<h3>Stay with friend & familie</h3>
 										<p>Come & enjoy precious moment with us</p>
 									<div class="agileits_w3layouts_more menu__item">
 				<a href="#" class="menu__link" data-toggle="modal" data-target="#myModal">Learn More</a>
