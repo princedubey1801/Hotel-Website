@@ -98,7 +98,7 @@ include('db.php');
 							<div class="container">
 								<div class="agileits-banner-info">
 								<h4>SUN RISE</h4>
-									<h3>We know what you love</h3>
+									<h3>We know what you love about my hotel</h3>
 										<p>Welcome Nitish Groups of Hotels</p>
 									<div class="agileits_w3layouts_more menu__item">
 				<a href="#" class="menu__link" data-toggle="modal" data-target="#myModal">Learn More</a>
